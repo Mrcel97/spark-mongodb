@@ -125,3 +125,14 @@ local.properties
 .classpath
 .project
 spark-mongodb.iml
+.DS_Store
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/spark-mongodb-1.0-SNAPSHOT-jar-with-dependencies.jar
+target/spark-mongodb-1.0-SNAPSHOT.jar
+target/surefire-reports/com.isban.AppTest.txt
+target/surefire-reports/TEST-com.isban.AppTest.xml
+target/test-classes/com/isban/AppTest.class
